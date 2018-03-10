@@ -1,0 +1,12 @@
+C:\Users\user\Desktop\ChatApplicationForGameOfLifeProject\ChatApplicationForGameOfLifeProject
+--output-path=obj\Debug\netcoreapp2.0\
+--application-name=ChatApplicationForGameOfLifeProject
+--content-root=C:\Users\user\Desktop\ChatApplicationForGameOfLifeProject\ChatApplicationForGameOfLifeProject
+--file=C:\Users\user\Desktop\ChatApplicationForGameOfLifeProject\ChatApplicationForGameOfLifeProject\Views\Home\About.cshtml
+--file=C:\Users\user\Desktop\ChatApplicationForGameOfLifeProject\ChatApplicationForGameOfLifeProject\Views\Home\Contact.cshtml
+--file=C:\Users\user\Desktop\ChatApplicationForGameOfLifeProject\ChatApplicationForGameOfLifeProject\Views\Home\Index.cshtml
+--file=C:\Users\user\Desktop\ChatApplicationForGameOfLifeProject\ChatApplicationForGameOfLifeProject\Views\Shared\Error.cshtml
+--file=C:\Users\user\Desktop\ChatApplicationForGameOfLifeProject\ChatApplicationForGameOfLifeProject\Views\Shared\_Layout.cshtml
+--file=C:\Users\user\Desktop\ChatApplicationForGameOfLifeProject\ChatApplicationForGameOfLifeProject\Views\Shared\_ValidationScriptsPartial.cshtml
+--file=C:\Users\user\Desktop\ChatApplicationForGameOfLifeProject\ChatApplicationForGameOfLifeProject\Views\_ViewImports.cshtml
+--file=C:\Users\user\Desktop\ChatApplicationForGameOfLifeProject\ChatApplicationForGameOfLifeProject\Views\_ViewStart.cshtml
